@@ -38,7 +38,7 @@ The Power BI dashboard provides an interactive view of customer behavior using k
 * Average Purchase Amount
 * Average Review Rating
 * Total Number of Customers
-  ![Dashboard Screenshot](
+![Dashboard Screenshot](https://github.com/payaldadhwal/Customer-Shopping-Behavior-Analysis/raw/main/dashboard.png)
   
 ## 🔍 Key Insights
 
