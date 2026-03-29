@@ -38,8 +38,8 @@ The Power BI dashboard provides an interactive view of customer behavior using k
 * Average Purchase Amount
 * Average Review Rating
 * Total Number of Customers
-
-
+  ![Dashboard Screenshot](
+  
 ## 🔍 Key Insights
 
 * The total customer base consists of approximately **3.9K customers**, indicating a moderately sized dataset with diverse customer segments.
